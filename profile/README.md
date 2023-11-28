@@ -1,4 +1,4 @@
-# 🚀 QALITA: A Data Quality Platform for Healthcare
+# 🚀 QALITA Platform : A Data Quality Platform for Healthcare
 
 <p align="center">
   <img src="https://platform.qalita.io/logo.svg" alt="qalita-logo" height="100">
