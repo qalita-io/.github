@@ -1,6 +1,8 @@
 # 🚀 Introducing QALITA: A Data Quality Platform for Healthcare
 
-<img src="https://platform.qalita.io/logo.svg" alt="qalita-logo" height="100">
+<p align="center">
+  <img src="https://platform.qalita.io/logo.svg" alt="qalita-logo" height="100">
+</p>
 
 ## 🔍 Key Features:
 - **Data Engineering**: Connects and computes data with advanced "packs". 🌐
