@@ -17,3 +17,8 @@
 
 ## 🎯 Goal:
 To provide an all-encompassing platform for managing data quality in healthcare, enhancing research, and treatment strategies.
+
+## Want to know more ? 
+
+* Try it : [Qalita Demo Platform](https://demo.platform.qalita.io/)
+* Checkout our website : [Qalita](https://qalita.io)
