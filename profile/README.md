@@ -1,4 +1,4 @@
-# 🚀 QALITA Platform : A Data Quality Platform for Healthcare
+# 🚀 QALITA Platform : A Data Quality Platform
 
 <p align="center">
   <img src="https://platform.qalita.io/logo.svg" alt="qalita-logo" height="100">
@@ -16,7 +16,7 @@
 - **Frontend**: NextJS for a dynamic user interface. 💻
 
 ## 🎯 Goal:
-To provide an all-encompassing platform for managing data quality in healthcare, enhancing research, and treatment strategies.
+To provide an all-encompassing platform for managing data quality, enhancing research, and strategies.
 
 ## Want to know more ? 
 
