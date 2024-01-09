@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://doc.platform.qalita.io/img/splash-screen.png" alt="qalita-logo" height="400">
+  <img src="https://doc.platform.qalita.io/img/splash-screen.png" alt="qalita-logo" height="300">
 </p>
 
 ## 🔍 Key Features:
