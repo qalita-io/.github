@@ -1,7 +1,5 @@
-# 🚀 QALITA Platform : A Data Quality Platform
-
 <p align="center">
-  <img src="https://platform.qalita.io/logo.svg" alt="qalita-logo" height="100">
+  <img src="https://doc.platform.qalita.io/img/splash-screen.png" alt="qalita-logo" height="500">
 </p>
 
 ## 🔍 Key Features:
