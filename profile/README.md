@@ -3,7 +3,7 @@
   <img width="1200px" height="auto" src="../channels4_banner.jpg"/>
 </p>
 
-**QALITA** is a **data quality solution** designed for healthcare and data-driven organizations.
+**QALITA** is a **data quality solution** designed for data-driven organizations.
 Our mission: make data quality management **simple, industrialized, and actionable**.
 
 ---
