@@ -8,14 +8,14 @@ Our mission: make data quality management **simple, industrialized, and actionab
 
 ---
 
-## 🚀 Products
+## Products
 
 * **QALITA Platform**: SaaS solution to manage end-to-end data quality workflows (engineering, governance, science, management).
 * **QALITA Studio**: local/desktop environment to develop, test, and run your own data quality *packs*.
 
 ---
 
-## 📂 What’s in this GitHub
+## What’s in this GitHub
 
 * **Public packs** for testing and assessing data quality.
 * **Helm chart** for deploying QALITA on Kubernetes.
@@ -23,7 +23,7 @@ Our mission: make data quality management **simple, industrialized, and actionab
 
 ---
 
-## 🔑 Open Core
+## Open Core
 
 QALITA follows an **open core model**:
 
